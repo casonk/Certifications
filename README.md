@@ -1,2 +1,1 @@
-# certs
-My certifications
+## My certifications
