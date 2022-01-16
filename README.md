@@ -1,7 +1,5 @@
 # My Certifications 
 
----
----
 
 ## Coursera 
 
@@ -28,3 +26,8 @@
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/WVAGCSEGVHX2)
 
+# Weber State University 
+
+---
+
+- [High Voltage EV Training Phase I](https://continue.weber.edu/professional/programs/evtraining/phasei/)
