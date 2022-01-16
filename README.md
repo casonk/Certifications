@@ -5,12 +5,12 @@
 
 ---
 
-# UC San Diego 
+### UC San Diego 
 - [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3)
 
 
-# Univeristy of Michigan 
+### Univeristy of Michigan 
 - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/MGPHBC4BEMAC)
 - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
@@ -26,7 +26,7 @@
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/WVAGCSEGVHX2)
 
-# Weber State University 
+## Weber State University 
 
 ---
 
