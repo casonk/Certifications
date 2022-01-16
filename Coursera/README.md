@@ -2,7 +2,7 @@
 
 # UC San Diego 
 - Graph Analytics for Big Data
-  - https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3
+  - [hot link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3)
 
 
 # Univeristy of Michigan 
