@@ -18,6 +18,8 @@
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/Y4NTGP25NKLF)
 - [Python Data Structures](https://www.coursera.org/learn/python-data)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/6LEPMX5SXVLV)
+- [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance)
+  - [Live Link](https://www.coursera.org/account/accomplishments/certificate/W4386XA9FRN6)
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/WVAGCSEGVHX2)
 
