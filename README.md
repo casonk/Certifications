@@ -13,6 +13,8 @@
 ### Univeristy of Michigan 
 - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/MGPHBC4BEMAC)
+- [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+  - [Live Link](https://www.coursera.org/account/accomplishments/certificate/LJ6TQXTUA74U)
 - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/GZXTRY52RWCZ)
 - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
