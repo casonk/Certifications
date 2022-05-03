@@ -6,6 +6,8 @@
 
 
 ## Univeristy of Michigan 
+- [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+  - [Live Link](https://coursera.org/share/0dd0a7cb0c08a4c6d656ca1d906d61d3)
 - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/MGPHBC4BEMAC)
 - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
