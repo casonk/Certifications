@@ -32,6 +32,10 @@
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/3WZLL7RZQVJF)
 
+## Recongintions
+
+- [Student Research Conference](https://www.umflint.edu/research/student-research/student-research-conference-src/)
+
 ## Weber State University 
 
 ---
