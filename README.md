@@ -12,7 +12,7 @@
 
 ### Univeristy of Michigan 
 - [Applied_Data_Science_With_Python](https://www.coursera.org/specializations/data-science-python)
-  - [Live Link](https://www.coursera.org/specializations/data-science-python)
+  - [Live Link](https://coursera.org/share/b1acc9be530d9eefca3c541601cfca09)
     - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
       - [Live Link](https://www.coursera.org/account/accomplishments/certificate/GZXTRY52RWCZ)
     - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
