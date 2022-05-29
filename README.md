@@ -34,7 +34,7 @@
 
 ## Recongintions
 
---
+---
 
 ### UM - Flint 
 
