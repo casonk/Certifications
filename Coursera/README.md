@@ -6,14 +6,15 @@
 
 
 ## Univeristy of Michigan 
-- [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
-  - [Live Link](https://coursera.org/share/0dd0a7cb0c08a4c6d656ca1d906d61d3)
-- [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
-  - [Live Link](https://www.coursera.org/account/accomplishments/certificate/MGPHBC4BEMAC)
-- [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
-  - [Live Link](https://www.coursera.org/account/accomplishments/certificate/LJ6TQXTUA74U)
-- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
-  - [Live Link](https://www.coursera.org/account/accomplishments/certificate/GZXTRY52RWCZ)
+- [Applied_Data_Science_With_Python] (https://coursera.org/share/b1acc9be530d9eefca3c541601cfca09)
+  - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+    - [Live Link](https://www.coursera.org/account/accomplishments/certificate/GZXTRY52RWCZ)
+  - [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+    - [Live Link](https://coursera.org/share/0dd0a7cb0c08a4c6d656ca1d906d61d3)
+  - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+    - [Live Link](https://www.coursera.org/account/accomplishments/certificate/MGPHBC4BEMAC)
+  - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+    - [Live Link](https://www.coursera.org/account/accomplishments/certificate/LJ6TQXTUA74U)
 - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/Y4NTGP25NKLF)
 - [Python Basics](https://www.coursera.org/learn/python-basics)
