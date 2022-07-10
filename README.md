@@ -36,6 +36,10 @@
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
   - [Live Link](https://www.coursera.org/account/accomplishments/certificate/3WZLL7RZQVJF)
 
+### Univeristy System of Georgia 
+- [Cybersecurity_and_the_Internet_of_Things](https://www.coursera.org/learn/iot-cyber-security)
+  - [Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb)
+  
 ## Recongintions
 
 ---
