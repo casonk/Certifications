@@ -1,4 +1,4 @@
-## Univeristy of Michigan 
+# Univeristy of Michigan 
 - [Applied_Data_Science_With_Python](https://www.coursera.org/specializations/data-science-python)
   - [Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5)
     - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
