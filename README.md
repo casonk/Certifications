@@ -36,6 +36,8 @@
     - [Live Link](https://coursera.org/share/28fe2ed5efa120813a2ebf4a27dacb60)
   - [Python Data Structures](https://www.coursera.org/learn/python-data)
     - [Live Link](https://coursera.org/share/de190771527f38727937ac70111b0c44)
+  - [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
+    - [Live Link](https://www.coursera.org/account/accomplishments/certificate/ZNKRC2DRYCX2)
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
   - [Live Link](https://coursera.org/share/8be777a63f99bbe3f6e786d54cc09333)
 
