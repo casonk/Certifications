@@ -38,6 +38,8 @@
     - [Live Link](https://coursera.org/share/de190771527f38727937ac70111b0c44)
   - [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
     - [Live Link](https://www.coursera.org/account/accomplishments/certificate/ZNKRC2DRYCX2)
+  - [Using Databases with Python](https://www.coursera.org/learn/python-databases)
+    - [Live Link](https://www.coursera.org/account/accomplishments/certificate/UUL6DUT8YWK7)
   - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)
     - [Live Link](https://www.coursera.org/account/accomplishments/certificate/Z97FAHBCV7EV)
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql)
