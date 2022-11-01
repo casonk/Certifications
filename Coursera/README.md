@@ -23,6 +23,8 @@
 - [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python)
   - [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
     - [Live Link](https://coursera.org/share/63b9492347cad248a5138ae01dcffef6)
+  - [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)
+    - [Live Link](https://coursera.org/share/390e8f12c521a1aaa9cc4c5c17b7b1b6)
 - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
   - [Python Basics](https://www.coursera.org/learn/python-basics)
     - [Live Link](https://coursera.org/share/44936c92ae999662ff3ce912d8791b09)
