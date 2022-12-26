@@ -11,6 +11,7 @@
   - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/DN3CYBLHACMV))
 - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming)
   - [Python Basics](https://www.coursera.org/learn/python-basics) ([Live Link](https://coursera.org/share/44936c92ae999662ff3ce912d8791b09))
+  - [Python Functions, Files, and Dictionaries]([https://www.coursera.org/learn/python-basics](https://www.coursera.org/programs/university-of-michigan-coursera-learning-program-1egh5?authProvider=umich&currentTab=MY_COURSES&productId=Uw_dZt1UEeiKDQqUtLvFaA&productType=course&showMiniModal=true)) ([Live Link]([https://coursera.org/share/44936c92ae999662ff3ce912d8791b09](https://coursera.org/share/1459db87b727735465d721e09327b869)))
   - [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) ([Live Link](https://coursera.org/share/e0e7e207dd8ab89db385bc58f60e3fca))
 - [Python for Everybody](https://www.coursera.org/specializations/python) ([Live Link](https://www.coursera.org/account/accomplishments/specialization/certificate/L7PXE3BS6CS5))
   - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) ([Live Link](https://coursera.org/share/28fe2ed5efa120813a2ebf4a27dacb60))
