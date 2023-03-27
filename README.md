@@ -32,7 +32,9 @@
   - [Using Databases with Python](https://www.coursera.org/learn/python-databases) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/UUL6DUT8YWK7))
   - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/Z97FAHBCV7EV))
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) ([Live Link](https://coursera.org/share/8be777a63f99bbe3f6e786d54cc09333))
-
+- [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody)
+  - [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql?specialization=postgresql-for-everybody) ([Live Link](https://coursera.org/share/b9c75fb57b56cc06b5fd959e12b48788))
+  
 ### Univeristy System of Georgia 
 - [Cybersecurity_and_the_Internet_of_Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
   
