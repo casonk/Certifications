@@ -33,8 +33,11 @@
 - [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody)
   - [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql?specialization=postgresql-for-everybody) ([Live Link](https://coursera.org/share/b9c75fb57b56cc06b5fd959e12b48788))
   
-## Univeristy System of Georgia 
-- [Cybersecurity_and_the_Internet_of_Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
+### Univeristy System of Georgia 
+- [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
+
+### Univeristy of Colorado Boulder
+- [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
   
-## Univeristy of Toronto
-- [Introduction_to_Self-Driving_Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
+### Univeristy of Toronto
+- [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
