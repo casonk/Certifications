@@ -22,8 +22,9 @@
   - [Using Databases with Python](https://www.coursera.org/learn/python-databases) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/UUL6DUT8YWK7))
   - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/Z97FAHBCV7EV))
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) ([Live Link](https://coursera.org/share/8be777a63f99bbe3f6e786d54cc09333))
-- [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody)
+- [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) ([Live Link](https://coursera.org/share/92405746137215a5cea0723a121f498b))
   - [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql?specialization=postgresql-for-everybody) ([Live Link](https://coursera.org/share/b9c75fb57b56cc06b5fd959e12b48788))
   - [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql) ([Live Link](https://coursera.org/share/ac4d33dd88fedf990f34c5a3ad08d833))
   - [JSON and Natural Language Processing in PostgreSQL](https://www.coursera.org/learn/json-natural-language-processing-postgresql) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/726FLWZUJ7MJ))
+  - [Database Architecture, Scale, and NoSQL with Elasticsearch](https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql) ([Live Link](https://coursera.org/share/524412fab862d9966f1480c531b8d05e))
   
