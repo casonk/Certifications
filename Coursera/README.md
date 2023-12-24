@@ -35,7 +35,9 @@
   - [Intermediate PostgreSQL](https://www.coursera.org/learn/intermediate-postgresql) ([Live Link](https://coursera.org/share/ac4d33dd88fedf990f34c5a3ad08d833))
   - [JSON and Natural Language Processing in PostgreSQL](https://www.coursera.org/learn/json-natural-language-processing-postgresql) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/726FLWZUJ7MJ))
   - [Database Architecture, Scale, and NoSQL with Elasticsearch](https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql) ([Live Link](https://coursera.org/share/524412fab862d9966f1480c531b8d05e))
-  
+- [C Programming for Everybody](https://www.coursera.org/programs/university-of-michigan-mrofm/specializations/c-programming-for-everybody?authProvider=umich)
+  - [Exploring C](https://www.coursera.org/programs/university-of-michigan-mrofm/learn/exploring-c?authProvider=umich&specialization=c-programming-for-everybody) ([Live Link](https://coursera.org/share/d7daf5cee0f1a5c871e3dc241acab814))
+
 ### Univeristy System of Georgia 
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
