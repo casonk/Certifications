@@ -41,14 +41,14 @@
   - [Data Structures in C](https://www.coursera.org/learn/data-structures-in-c) ([Live Link](https://coursera.org/share/31ce129d566f7776476c4f7358655831))
   - [Building Objects in C](https://www.coursera.org/learn/building-objects-in-c) ([Live Link](https://coursera.org/share/50cdbdedf71f2b8ad982a46342ff7092))
 
-### Univeristy System of Georgia 
+## Univeristy System of Georgia 
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
-### Univeristy of Colorado Boulder
+## Univeristy of Colorado Boulder
 - [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
   
-### Univeristy of Toronto
+## Univeristy of Toronto
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
 
-### Vanderbilt University
+## Vanderbilt University
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) ([Live Link](https://coursera.org/share/b3513351119983b5715151f66dff9ee2))
