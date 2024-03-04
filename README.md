@@ -54,6 +54,7 @@
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
 
 ### Vanderbilt University
+- [Generative AI Primer](https://www.coursera.org/learn/generative-ai) ([Live Link](https://coursera.org/share/f656b9d3a31cd99264b670ed96809f0a))
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) ([Live Link](https://coursera.org/share/b3513351119983b5715151f66dff9ee2))
 
 ## Recongintions
