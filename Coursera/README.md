@@ -41,14 +41,14 @@
   - [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) ([Live Link](https://coursera.org/share/390e8f12c521a1aaa9cc4c5c17b7b1b6))
   - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/DN3CYBLHACMV))
 
-## Univeristy System of Georgia 
-- [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
-
 ## Univeristy of Colorado Boulder
 - [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
   
 ## Univeristy of Toronto
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
+
+## Univeristy System of Georgia 
+- [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ## Vanderbilt University
 - [Change Management for Generative AI](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://coursera.org/share/be3cbd1e8d3892a071aeea496275a2f1))
