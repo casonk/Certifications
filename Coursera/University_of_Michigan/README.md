@@ -1,4 +1,5 @@
 # Univeristy of Michigan 
+- [AI-Powered Data Analysis: A Practical Introduction](https://www.coursera.org/learn/ai-powered-data-analysis-a-practical-introduction) ([Live Link](https://coursera.org/share/662e35adaa793c3dc4b14909dbf9f86c))
 - [Applied_Data_Science_With_Python](https://www.coursera.org/specializations/data-science-python) ([Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5))
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) ([Live Link](https://coursera.org/share/e10dc0ee00b0c2178f5208706445f829))
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) ([Live Link](https://coursera.org/share/1ddfbccfe3a51b13b04fb2cbf4942da4))
