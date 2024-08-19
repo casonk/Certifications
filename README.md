@@ -54,6 +54,7 @@
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ### Vanderbilt University
+- [Advanced Prompt Engineering for Everyone](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone) ([Live Link](https://www.coursera.org/account/accomplishments/verify/KX93AU199VGX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 - [Change Management for Generative AI](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://coursera.org/share/be3cbd1e8d3892a071aeea496275a2f1))
 - [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier))
 - [Generative AI for Leaders](https://www.coursera.org/learn/generative-ai-for-leaders) ([Live Link](https://coursera.org/share/9a3e215771b73016ad9a496da8275af8))
