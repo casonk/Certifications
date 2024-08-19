@@ -51,8 +51,9 @@
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ## Vanderbilt University
+- [Advanced Prompt Engineering for Everyone](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone) ([Live Link](https://coursera.org/share/4399a873b1be324d7b9bfe749e604a21))
 - [Change Management for Generative AI](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://coursera.org/share/be3cbd1e8d3892a071aeea496275a2f1))
-- [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier))
+- [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier) ([Live Link](https://coursera.org/share/77434fded5ec2a573b79365df2d641f2))
 - [Generative AI for Leaders](https://www.coursera.org/learn/generative-ai-for-leaders) ([Live Link](https://coursera.org/share/9a3e215771b73016ad9a496da8275af8))
 - [Generative AI Primer](https://www.coursera.org/learn/generative-ai) ([Live Link](https://coursera.org/share/f656b9d3a31cd99264b670ed96809f0a))
 - [Innovative Teaching with ChatGPT](https://www.coursera.org/learn/chatgpt-innovative-teaching) ([Live Link](https://coursera.org/share/fa7fc9cf3f76c4ea6bf76fdf363f0359))
