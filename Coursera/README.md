@@ -57,6 +57,7 @@
 - [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier) ([Live Link](https://coursera.org/share/77434fded5ec2a573b79365df2d641f2))
 - [Generative AI for Leaders](https://www.coursera.org/learn/generative-ai-for-leaders) ([Live Link](https://coursera.org/share/9a3e215771b73016ad9a496da8275af8))
 - [Generative AI Primer](https://www.coursera.org/learn/generative-ai) ([Live Link](https://coursera.org/share/f656b9d3a31cd99264b670ed96809f0a))
+- [GPT Vision: Seeing the World through Generative AI](https://www.coursera.org/learn/gpt-vision) ([Live Link](https://coursera.org/share/ad63e60186e01c18dc107aaa5a002dac))
 - [Innovative Teaching with ChatGPT](https://www.coursera.org/learn/chatgpt-innovative-teaching) ([Live Link](https://coursera.org/share/fa7fc9cf3f76c4ea6bf76fdf363f0359))
 - [Microsoft 365 Copilot: Personal Productivity for All](https://www.coursera.org/learn/microsoft-365-copilot) ([Live Link](https://coursera.org/share/542ad11ffe1e24cd244a313eaf8e1358))
 - [OpenAI GPTs: Creating Your Own Custom AI Assistants](https://www.coursera.org/learn/openai-custom-gpts) ([Live Link](https://coursera.org/share/e334c7790bce4a2bc674d4c817bda502))
