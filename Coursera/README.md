@@ -62,3 +62,4 @@
 - [Microsoft 365 Copilot: Personal Productivity for All](https://www.coursera.org/learn/microsoft-365-copilot) ([Live Link](https://coursera.org/share/542ad11ffe1e24cd244a313eaf8e1358))
 - [OpenAI GPTs: Creating Your Own Custom AI Assistants](https://www.coursera.org/learn/openai-custom-gpts) ([Live Link](https://coursera.org/share/e334c7790bce4a2bc674d4c817bda502))
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) ([Live Link](https://coursera.org/share/b3513351119983b5715151f66dff9ee2))
+- [Trustworthy Generative AI](https://www.coursera.org/learn/trustworthy-generative-ai) ([Live Link](https://coursera.org/share/68ca90276c45dd3e216fad95b8d1c1f4))
