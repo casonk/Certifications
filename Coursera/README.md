@@ -19,6 +19,7 @@
   - [Programming in C](https://www.coursera.org/learn/programming-c) ([Live Link](https://coursera.org/share/d69ba972fd2aae7e103fa96ebd750f3a))
   - [Data Structures in C](https://www.coursera.org/learn/data-structures-in-c) ([Live Link](https://coursera.org/share/31ce129d566f7776476c4f7358655831))
   - [Building Objects in C](https://www.coursera.org/learn/building-objects-in-c) ([Live Link](https://coursera.org/share/50cdbdedf71f2b8ad982a46342ff7092))
+- [Generative AI Essentials: Overview and Impact](https://www.coursera.org/learn/generative-ai-essentials) ([Live Link](https://coursera.org/share/a49ce78f32598339835b1e60f5d6b3ce))
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) ([Live Link](https://coursera.org/share/8be777a63f99bbe3f6e786d54cc09333))
 - [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) ([Live Link](https://coursera.org/share/92405746137215a5cea0723a121f498b))
   - [Database Design and Basic SQL in PostgreSQL](https://www.coursera.org/learn/database-design-postgresql?specialization=postgresql-for-everybody) ([Live Link](https://coursera.org/share/b9c75fb57b56cc06b5fd959e12b48788))
