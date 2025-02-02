@@ -57,6 +57,7 @@
 
 ### Vanderbilt University
 - [Advanced Prompt Engineering for Everyone](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone) ([Live Link](https://coursera.org/share/4399a873b1be324d7b9bfe749e604a21))
+- [Building HTTP APIs with Spring](https://www.coursera.org/learn/java-spring) ([Live Link](https://coursera.org/share/487bbc41e5ed499eb9936571f99197c9))
 - [Change Management for Generative AI](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://coursera.org/share/be3cbd1e8d3892a071aeea496275a2f1))
 - [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier) ([Live Link](https://coursera.org/share/77434fded5ec2a573b79365df2d641f2))
 - [Generative AI for Leaders](https://www.coursera.org/learn/generative-ai-for-leaders) ([Live Link](https://coursera.org/share/9a3e215771b73016ad9a496da8275af8))
