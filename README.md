@@ -79,6 +79,20 @@
   - [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) ([Live Link](https://coursera.org/share/b3513351119983b5715151f66dff9ee2))
   - [Trustworthy Generative AI](https://www.coursera.org/learn/trustworthy-generative-ai) ([Live Link](https://coursera.org/share/68ca90276c45dd3e216fad95b8d1c1f4))
 
+## Microsoft
+
+---
+
+### Learning Paths
+
+- [Microsoft Azure Data Fundamentals: Explore core data concepts](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/NY9LGTTF?sharingId=50E8975C059E097E))
+
+### Modules
+
+- [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
+- [Explore core data concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
+- [Explore data roles and services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
+
 ## Recongintions
 
 ---
