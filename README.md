@@ -1,22 +1,23 @@
-# My Certifications 
+# My Certifications
 
-
-## Coursera 
+## Coursera
 
 ---
 
-### University of California Irvine
+### University of California - Irvine
+
 - [Identifying the Right Role for Yourself](https://www.coursera.org/learn/identifying-right-datascience-ai-role) ([Live Link](https://coursera.org/share/b5eb51ed5af6bede8af8a98285954a21))
 
-### University of California San Diego
+### University of California - San Diego
+
 - [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3))
 
+### Univeristy of Michigan
 
-### Univeristy of Michigan 
 - [AI-Powered Data Analysis: A Practical Introduction](https://www.coursera.org/learn/ai-powered-data-analysis-a-practical-introduction) ([Live Link](https://coursera.org/share/662e35adaa793c3dc4b14909dbf9f86c))
 - [Applied_Data_Science_With_Python](https://www.coursera.org/specializations/data-science-python) ([Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5))
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) ([Live Link](https://coursera.org/share/e10dc0ee00b0c2178f5208706445f829))
-  - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) ([Live Link](https://coursera.org/share/1ddfbccfe3a51b13b04fb2cbf4942da4))
+  - [Applied Plotting, Charting &amp; Data Representation in Python](https://www.coursera.org/learn/python-plotting) ([Live Link](https://coursera.org/share/1ddfbccfe3a51b13b04fb2cbf4942da4))
   - [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) ([Live Link](https://coursera.org/share/0dd0a7cb0c08a4c6d656ca1d906d61d3))
   - [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) ([Live Link](https://coursera.org/share/0a7b85b3e93bf46b6aba1836f5ffcfd0))
   - [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) ([Live Link](https://coursera.org/share/aa2e4c789dc4da234ebf0d144a8230a7))
@@ -50,19 +51,23 @@
   - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/DN3CYBLHACMV))
 
 ### Univeristy of Colorado Boulder
+
 - [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
-  
+
 ### Univeristy of Toronto
+
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
 
-### Univeristy System of Georgia 
+### Univeristy System of Georgia
+
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ### Vanderbilt University
+
 - [Advanced Prompt Engineering for Everyone](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone) ([Live Link](https://coursera.org/share/4399a873b1be324d7b9bfe749e604a21))
 - [Building HTTP APIs with Spring](https://www.coursera.org/learn/java-spring) ([Live Link](https://coursera.org/share/487bbc41e5ed499eb9936571f99197c9))
 - [Change Management for Generative AI](https://www.coursera.org/learn/change-management-generative-ai) ([Live Link](https://coursera.org/share/be3cbd1e8d3892a071aeea496275a2f1))
-- [ChatGPT & Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier) ([Live Link](https://coursera.org/share/77434fded5ec2a573b79365df2d641f2))
+- [ChatGPT &amp; Zapier: Agentic AI for Everyone](https://www.coursera.org/learn/agentic-ai-chatgpt-zapier) ([Live Link](https://coursera.org/share/77434fded5ec2a573b79365df2d641f2))
 - [Generative AI for Leaders](https://www.coursera.org/learn/generative-ai-for-leaders) ([Live Link](https://coursera.org/share/9a3e215771b73016ad9a496da8275af8))
 - [Generative AI Primer](https://www.coursera.org/learn/generative-ai) ([Live Link](https://coursera.org/share/f656b9d3a31cd99264b670ed96809f0a))
 - [GPT Vision: Seeing the World through Generative AI](https://www.coursera.org/learn/gpt-vision) ([Live Link](https://coursera.org/share/ad63e60186e01c18dc107aaa5a002dac))
@@ -78,15 +83,16 @@
 
 ---
 
-### University of Michigan - Flint 
+### University of Michigan - Flint
 
 - [Student Research Conference](https://www.umflint.edu/research/student-research/student-research-conference-src/)
 - [UM - Flint 2022-2023 Caldwell Mathematics Award]
 
 ### State of Michigan
+
 - [Certificate of Congradulations]
 
-## Weber State University 
+## Weber State University
 
 ---
 
