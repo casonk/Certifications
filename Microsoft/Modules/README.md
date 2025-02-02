@@ -1,5 +1,6 @@
 # Modules
 
-- [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
-- [Explore core data concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
-- [Explore data roles and services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
+- [Create a Windows Virtual Machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
+- [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UYTSJJL3?sharingId=50E8975C059E097E))
+- [Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
+- [Explore Data Roles and Services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
