@@ -5,7 +5,10 @@
 
 ---
 
-### UC San Diego 
+### University of California Irvine
+- [Identifying the Right Role for Yourself](https://www.coursera.org/learn/identifying-right-datascience-ai-role) ([Live Link](https://coursera.org/share/b5eb51ed5af6bede8af8a98285954a21))
+
+### University of California San Diego
 - [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3))
 
 
@@ -75,7 +78,7 @@
 
 ---
 
-### UM - Flint 
+### University of Michigan - Flint 
 
 - [Student Research Conference](https://www.umflint.edu/research/student-research/student-research-conference-src/)
 - [UM - Flint 2022-2023 Caldwell Mathematics Award]
