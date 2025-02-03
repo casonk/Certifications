@@ -91,9 +91,10 @@
 ### Modules
 
 - [Create a Windows Virtual Machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
+- [Describe Basic Cybersecurity Threats, Attacks, and Mitigations](https://learn.microsoft.com/en-us/training/modules/describe-basic-cybersecurity-threats-attacks-mitigations/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/N269V4WF?sharingId=50E8975C059E097E))
 - [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UYTSJJL3?sharingId=50E8975C059E097E))
 - [Describe Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/2BNFNR9V?sharingId=50E8975C059E097E))
-- [Describe Basic Cybersecurity Threats, Attacks, and Mitigations](https://learn.microsoft.com/en-us/training/modules/describe-basic-cybersecurity-threats-attacks-mitigations/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/N269V4WF?sharingId=50E8975C059E097E))
+- [Describe Concepts of Cryptography](https://learn.microsoft.com/en-us/training/modules/describe-concepts-of-cryptography/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/P5AZ6HK4?sharingId=50E8975C059E097E))
 - [Describe the Benefits of Using Cloud Services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/CFDJD279?sharingId=50E8975C059E097E))
 - [Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
 - [Explore Data Roles and Services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
