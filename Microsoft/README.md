@@ -4,6 +4,7 @@
 
 ## Learning Paths
 
+- [Describe the Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/HAGPVFK8?sharingId=50E8975C059E097E))
 - [Microsoft Azure Fundamentals: Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZG6GUJN?sharingId=50E8975C059E097E))
 - [Microsoft Azure Data Fundamentals: Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/NY9LGTTF?sharingId=50E8975C059E097E))
 
@@ -11,6 +12,7 @@
 
 - [Create a Windows Virtual Machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
 - [Describe Authentication and Authorization in Cybersecurity](https://learn.microsoft.com/en-us/training/modules/describe-authentication-authorization-cybersecurity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UYT5SXV3?sharingId=50E8975C059E097E))
+- [Describe Application Based Threats and how to Protect Against Them](https://learn.microsoft.com/en-us/training/modules/describe-application-based-threats-security-controls/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/B6MN3SFD?sharingId=50E8975C059E097E))
 - [Describe Basic Cybersecurity Threats, Attacks, and Mitigations](https://learn.microsoft.com/en-us/training/modules/describe-basic-cybersecurity-threats-attacks-mitigations/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/N269V4WF?sharingId=50E8975C059E097E))
 - [Describe Cloud Computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UYTSJJL3?sharingId=50E8975C059E097E))
 - [Describe Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/2BNFNR9V?sharingId=50E8975C059E097E))
