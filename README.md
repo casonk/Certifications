@@ -88,6 +88,7 @@
 - [Describe the Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/HAGPVFK8?sharingId=50E8975C059E097E))
 - [Microsoft Azure Fundamentals: Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZG6GUJN?sharingId=50E8975C059E097E))
 - [Microsoft Azure Data Fundamentals: Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/NY9LGTTF?sharingId=50E8975C059E097E))
+- [Microsoft Security, Compliance, and Identity Fundamentals: Describe the Concepts of Security, Compliance, and Identity](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/HAGCCR48?sharingId=50E8975C059E097E))
 
 ### Modules
 
@@ -99,6 +100,7 @@
 - [Describe Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/2BNFNR9V?sharingId=50E8975C059E097E))
 - [Describe Concepts of Cryptography](https://learn.microsoft.com/en-us/training/modules/describe-concepts-of-cryptography/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/P5AZ6HK4?sharingId=50E8975C059E097E))
 - [Describe Device Based Threats and Security Controls](https://learn.microsoft.com/en-us/training/modules/describe-device-based-threats-security-controls/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/ESRMQ8MP?sharingId=50E8975C059E097E))
+- [Describe Identity Concepts](https://learn.microsoft.com/en-us/training/modules/describe-identity-principles-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/ES722T8P?sharingId=50E8975C059E097E))
 - [Describe Network Based Threats and Mitigations](https://learn.microsoft.com/en-us/training/modules/describe-network-based-threats-mitigations/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/3RSLUDDH?sharingId=50E8975C059E097E))
 - [Describe Security and Compliance Concepts](https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-methodologies/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/3RL6SMDH?sharingId=50E8975C059E097E))
 - [Describe the Benefits of Using Cloud Services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/CFDJD279?sharingId=50E8975C059E097E))
