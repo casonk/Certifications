@@ -104,6 +104,7 @@
 - [Describe Network Based Threats and Mitigations](https://learn.microsoft.com/en-us/training/modules/describe-network-based-threats-mitigations/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/3RSLUDDH?sharingId=50E8975C059E097E))
 - [Describe Security and Compliance Concepts](https://learn.microsoft.com/en-us/training/modules/describe-security-concepts-methodologies/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/3RL6SMDH?sharingId=50E8975C059E097E))
 - [Describe the Benefits of Using Cloud Services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/CFDJD279?sharingId=50E8975C059E097E))
+- [Describe the Core Architectural Components of Azure](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/3RLUE29H?sharingId=50E8975C059E097E))
 - [Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
 - [Explore Data Roles and Services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
 
