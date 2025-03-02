@@ -114,6 +114,7 @@
 - [Explore Data Roles and Services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
 - [Explore Fundamental Relational Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-relational-data-offerings/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UY6F95H3?sharingId=50E8975C059E097E))
 - [Explore Relational Database Services in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZ37FEXN?sharingId=50E8975C059E097E))
+- [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/DC46LTRJ?sharingId=50E8975C059E097E))
 
 ## Recongintions
 
