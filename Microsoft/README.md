@@ -7,6 +7,7 @@
 - [Describe the Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/HAGPVFK8?sharingId=50E8975C059E097E))
 - [Microsoft Azure Fundamentals: Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZG6GUJN?sharingId=50E8975C059E097E))
 - [Microsoft Azure Data Fundamentals: Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/NY9LGTTF?sharingId=50E8975C059E097E))
+- [Microsoft Azure Data Fundamentals: Explore Relational Data in Azure](https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/2BAKM5MV?sharingId=50E8975C059E097E))
 - [Microsoft Security, Compliance, and Identity Fundamentals: Describe the Concepts of Security, Compliance, and Identity](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/HAGCCR48?sharingId=50E8975C059E097E))
 
 ## Modules
@@ -27,3 +28,4 @@
 - [Explore Core Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-core-data-concepts/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/CHKXQE89?sharingId=50E8975C059E097E))
 - [Explore Data Roles and Services](https://learn.microsoft.com/en-us/training/modules/explore-roles-responsibilities-world-of-data/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/7MW46K9Z?sharingId=50E8975C059E097E))
 - [Explore Fundamental Relational Data Concepts](https://learn.microsoft.com/en-us/training/modules/explore-relational-data-offerings/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UY6F95H3?sharingId=50E8975C059E097E))
+- [Explore Relational Database Services in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZ37FEXN?sharingId=50E8975C059E097E))
