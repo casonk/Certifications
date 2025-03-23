@@ -1,6 +1,7 @@
 # Modules
 
 - [Create a Windows Virtual Machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason-0894/3RS5DL6H?sharingId=50E8975C059E097E))
+- [Describe Access Management Capabilities of Microsoft Entra](https://learn.microsoft.com/en-us/training/modules/explore-access-management-capabilities/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/9X9BKLBU?sharingId=50E8975C059E097E))
 - [Describe Authentication and Authorization in Cybersecurity](https://learn.microsoft.com/en-us/training/modules/describe-authentication-authorization-cybersecurity/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/UYT5SXV3?sharingId=50E8975C059E097E))
 - [Describe Application Based Threats and how to Protect Against Them](https://learn.microsoft.com/en-us/training/modules/describe-application-based-threats-security-controls/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/B6MN3SFD?sharingId=50E8975C059E097E))
 - [Describe Azure Compute and Networking Services](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/87U7D6GW?sharingId=50E8975C059E097E))
