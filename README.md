@@ -123,7 +123,7 @@
 - [Explore Relational Database Services in Azure](https://learn.microsoft.com/en-us/training/modules/explore-provision-deploy-relational-database-offerings-azure/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/WZ37FEXN?sharingId=50E8975C059E097E))
 - [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/) ([Live Link](https://learn.microsoft.com/api/achievements/share/en-us/KonzerCason/DC46LTRJ?sharingId=50E8975C059E097E))
 
-## Recongintions
+## Recognitions
 
 ---
 
@@ -134,7 +134,7 @@
 
 ### State of Michigan
 
-- [Certificate of Congradulations]
+- [Certificate of Congratulations]
 
 ## Try Hack Me
 
