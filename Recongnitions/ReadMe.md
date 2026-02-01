@@ -1,4 +1,4 @@
-# Recongintions
+# Recognitions
 
 ---
 
@@ -8,4 +8,4 @@
 - [UM - Flint 2022-2023 Caldwell Mathematics Award]
 
 ## State of Michigan
-- [Certificate of Congradulations]
+- [Certificate of Congratulations]
