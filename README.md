@@ -140,11 +140,11 @@
 
 ---
 
-## Profile Badge 
+### Profile Badge 
 
 ![Try Hack Me](./TryHackMe/spoofkon.png)
 
-## Rooms
+### Rooms
 
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 - [Common Attacks](https://tryhackme.com/room/commonattacks)
@@ -174,11 +174,11 @@
 - [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
-## Certificates
+### Certificates
 
 - [pathway-gijdj7xxvc](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MW6DBEGPGO.pdf)
 
-## Badges
+### Badges
 
 - ![cat linux.txt](./TryHackMe/Badges/terminaled.png)
 - ![Networking Nerd](./TryHackMe/Badges/network-fundamentals.png)
