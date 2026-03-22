@@ -10,9 +10,9 @@
 - [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3))
 
 
-## Univeristy of Michigan 
+## University of Michigan 
 - [AI-Powered Data Analysis: A Practical Introduction](https://www.coursera.org/learn/ai-powered-data-analysis-a-practical-introduction) ([Live Link](https://coursera.org/share/662e35adaa793c3dc4b14909dbf9f86c))
-- [Applied_Data_Science_With_Python](https://www.coursera.org/specializations/data-science-python) ([Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5))
+- [Applied Data Science With Python](https://www.coursera.org/specializations/data-science-python) ([Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5))
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) ([Live Link](https://coursera.org/share/e10dc0ee00b0c2178f5208706445f829))
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) ([Live Link](https://coursera.org/share/1ddfbccfe3a51b13b04fb2cbf4942da4))
   - [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) ([Live Link](https://coursera.org/share/0dd0a7cb0c08a4c6d656ca1d906d61d3))
@@ -47,13 +47,13 @@
   - [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) ([Live Link](https://coursera.org/share/390e8f12c521a1aaa9cc4c5c17b7b1b6))
   - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/DN3CYBLHACMV))
 
-## Univeristy of Colorado Boulder
+## University of Colorado Boulder
 - [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
   
-## Univeristy of Toronto
+## University of Toronto
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
 
-## Univeristy System of Georgia 
+## University System of Georgia 
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ## Vanderbilt University
