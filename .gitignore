@@ -13,3 +13,6 @@ desktop.ini
 # Temporary
 *.tmp
 *.bak
+
+# Local agent handoff log
+CHATHISTORY.md
