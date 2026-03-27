@@ -29,3 +29,12 @@ Personal certification portfolio documenting completed courses and certification
   - Course name with link to the course page
   - Live link to the shareable certificate
 - Group entries by platform, then by institution where applicable.
+
+## Agent Memory
+
+Use `./CHATHISTORY.md` as the standard local handoff file for this repo.
+
+- It is local-only and gitignored.
+- Read it after `AGENTS.md` when resuming work.
+- Keep entries brief: objective, key actions, blockers, and next step.
+- Redact private or account-specific data before writing to it.

@@ -1,36 +1,27 @@
 # Contributing
 
-Thank you for your interest in contributing!
+This repository is a documentation archive for certifications, coursework certificates, and recognitions.
 
-## Getting Started
+## Workflow
 
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feat/your-feature
-   ```
-3. Make your changes.
-4. Commit using [Conventional Commits](https://www.conventionalcommits.org/):
-   ```
-   type(scope): short description
-   ```
-   Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`, `ci`, `perf`
-5. Push and open a Pull Request.
+1. Add files under the correct provider or institution directory.
+2. Update the closest provider-level `README.md` if one exists.
+3. Update the root `README.md` in the same change so the main index stays current.
+4. Use a focused Conventional Commit such as `docs: add coursera certificate for <course>`.
 
-## Code Standards
+## Content Standards
 
-- Follow existing code style and conventions.
-- Run linters/formatters before submitting.
-- Add or update tests for new functionality.
-- Update documentation if your change affects usage.
+- Treat the root `README.md` as the primary public index.
+- Group entries by platform first, then by institution where appropriate.
+- Include the certificate title and a public share link when one exists.
+- Prefer additive edits; do not rewrite older entries unless you are fixing a broken link, typo, or organization issue.
+- Avoid committing private identifiers, account details, or any certificate metadata that is not already meant to be public.
 
-## Pull Request Guidelines
+## Pull Requests
 
-- Keep PRs focused — one concern per PR.
+- Keep each pull request scoped to one platform, institution, or cleanup theme.
+- Summarize which sections of the index changed.
 - Fill out the PR template.
-- Ensure CI checks pass.
+- Ensure any relevant checks pass before merging.
 - Do not commit secrets, credentials, or sensitive data.
-
-## Questions?
-
-Open an issue for bugs, feature requests, or questions.
+- Call out any broken links that were removed or replaced.
