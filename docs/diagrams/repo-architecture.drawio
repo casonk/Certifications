@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" modified="2026-03-28T12:08:06-04:00" agent="Codex GPT-5" version="24.7.17" type="device" compressed="false">
+  <diagram id="repo-architecture" name="Repo Architecture">
+    <mxGraphModel dx="1820" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1300" math="0" shadow="0" keepEdgesInForeground="1" keepEdgesInBackground="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Certifications Archive And Catalog Architecture" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#1F2937;strokeColor=#111827;fontColor=#FFFFFF;fontSize=26;fontStyle=1;align=center;verticalAlign=middle;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="1800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Contributor / Curator" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FCE7F3;strokeColor=#DB2777;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="README.md&#10;master public certification index" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="entry contract&#10;course or platform page&#10;plus live share link" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#E0F2FE;strokeColor=#0284C7;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="Coursera/README.md&#10;Microsoft/README.md&#10;TryHackMe/README.md&#10;Recognitions/README.md&#10;Weber_State/README.md" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#E2E8F0;strokeColor=#64748B;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="130" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="public course pages&#10;public shareable certificate links&#10;platform profile links" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DCFCE7;strokeColor=#16A34A;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="150" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="100" value="Coursera/&#10;institution subfolders&#10;local PDF certificates" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="101" value="Microsoft/&#10;Learning_Paths/&#10;Modules/&#10;local PDF exports" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="102" value="TryHackMe/&#10;Certifications/&#10;Badges/&#10;profile badge image" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="103" value="Recognitions/&#10;award and recognition PDFs" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="440" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="104" value="Weber_State/&#10;training credential PDFs" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="440" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="105" value="LinkedIn/&#10;standalone certificate exports" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FED7AA;strokeColor=#EA580C;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="440" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="200" value=".github/workflows/ci.yml&#10;light markdown and structure validation" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FBCFE8;strokeColor=#EC4899;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="210" value="docs/contributor-architecture-blueprint.md&#10;repo-architecture.puml&#10;repo-architecture.drawio" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F9A8D4;strokeColor=#DB2777;fontColor=#111827;fontSize=18;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="760" y="750" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="500" style="rounded=0;html=0;strokeColor=#1F2937;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="501" value="update drilldown indexes" style="rounded=0;html=0;strokeColor=#1F2937;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="10" target="40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="502" style="rounded=0;html=0;strokeColor=#1F2937;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="20" target="30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="503" style="rounded=0;html=0;strokeColor=#16A34A;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="30" target="50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="504" value="mirror provider slices" style="rounded=0;html=0;strokeColor=#64748B;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="40" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="510" value="add evidence" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="10" target="100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="511" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="512" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="513" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="514" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="515" style="rounded=0;html=0;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="10" target="105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="520" value="backs catalog" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="100" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="521" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="101" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="522" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="102" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="523" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="103" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="524" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="104" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="525" style="rounded=0;html=0;dashed=1;strokeColor=#EA580C;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="105" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="530" style="rounded=0;html=0;strokeColor=#EC4899;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="200" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="531" style="rounded=0;html=0;strokeColor=#EC4899;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="200" target="40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="532" value="explains" style="rounded=0;html=0;strokeColor=#DB2777;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="210" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="533" style="rounded=0;html=0;strokeColor=#DB2777;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=12;endArrow=classic;endFill=1;endSize=10;strokeWidth=2;" edge="1" parent="1" source="210" target="40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

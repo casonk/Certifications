@@ -12,4 +12,10 @@ Unlike `CHATHISTORY.md`, this file should keep only reusable lessons that should
 
 ## Lessons
 
-- No durable lessons recorded yet.
+- Archive-style documentation repos should be documented around the canonical
+  index, provider drilldowns, and evidence buckets rather than only the folder
+  list.
+- Keep the root README as the authoritative catalog even when provider-specific
+  readmes exist for local navigation.
+- Distinguish tracked local evidence artifacts from external live verification
+  links when updating the architecture or documentation.
