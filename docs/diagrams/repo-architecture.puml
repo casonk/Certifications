@@ -1,0 +1,62 @@
+@startuml
+!pragma layout smetana
+title Certifications Archive And Catalog Architecture
+skinparam shadowing false
+skinparam defaultFontName Monospace
+skinparam packageStyle rectangle
+
+actor "Contributor / Curator" as curator
+
+package "Canonical Catalog" #F8FAFC {
+  file "README.md\nmaster public certification index" as root_index #DBEAFE
+  rectangle "entry contract\ncourse or platform page\n+ live share link" as entry_contract #E0F2FE
+}
+
+package "Provider Drilldown Indexes" #EFF6FF {
+  file "Coursera/README.md\nMicrosoft/README.md\nTryHackMe/README.md\nRecognitions/README.md\nWeber_State/README.md" as provider_indexes #E2E8F0
+}
+
+package "Evidence Archive Buckets" #FFF7ED {
+  folder "Coursera/\ninstitution subfolders\nlocal PDF certificates" as coursera #FED7AA
+  folder "Microsoft/\nLearning_Paths/\nModules/\nlocal PDF exports" as microsoft #FED7AA
+  folder "TryHackMe/\nCertifications/\nBadges/\nprofile badge image" as tryhackme #FED7AA
+  folder "Recognitions/\naward and recognition PDFs" as recognitions #FED7AA
+  folder "Weber_State/\ntraining credential PDFs" as weber #FED7AA
+  folder "LinkedIn/\nstandalone certificate exports" as linkedin #FED7AA
+}
+
+package "External Proof Surface" #F0FDF4 {
+  rectangle "public course pages\npublic shareable certificate links\nplatform profile links" as external_links #DCFCE7
+}
+
+package "Validation And Guidance" #FDF2F8 {
+  rectangle ".github/workflows/ci.yml\nlight markdown and structure validation" as ci #FBCFE8
+  rectangle "docs/contributor-architecture-blueprint.md\nrepo-architecture.{puml,drawio}" as docs #F9A8D4
+}
+
+curator --> coursera : add evidence
+curator --> microsoft : add evidence
+curator --> tryhackme : add evidence
+curator --> recognitions : add evidence
+curator --> weber : add evidence
+curator --> linkedin : add evidence
+
+curator --> provider_indexes : update drilldown indexes
+curator --> root_index : update canonical index
+
+provider_indexes --> root_index : mirror provider slices
+root_index --> entry_contract
+entry_contract --> external_links
+
+coursera ..> root_index : backs catalog
+microsoft ..> root_index : backs catalog
+tryhackme ..> root_index : backs catalog
+recognitions ..> root_index : backs catalog
+weber ..> root_index : backs catalog
+linkedin ..> root_index : backs catalog
+
+ci --> root_index
+ci --> provider_indexes
+docs ..> root_index : explains
+docs ..> provider_indexes : explains
+@enduml

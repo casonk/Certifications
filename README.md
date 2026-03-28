@@ -1,5 +1,29 @@
 # My Certifications
 
+## Architecture Summary
+
+`Certifications` is a documentation archive and curation repo, not an
+application or automation project.
+
+Its working structure is:
+
+1. `README.md` is the canonical public index grouped by platform and, where
+   useful, by institution or content type.
+2. Provider directories such as `Coursera/`, `Microsoft/`, `TryHackMe/`,
+   `Recognitions/`, `Weber_State/`, and `LinkedIn/` hold the local evidence
+   artifacts such as PDFs and images.
+3. Some provider directories also keep local `README.md` drilldowns that mirror
+   or expand a slice of the master index.
+4. Most entries pair two evidence surfaces:
+   - a public course or platform page
+   - a public shareable certificate or achievement link
+5. The local artifact files back the archive, while the root README remains the
+   single source of truth for what should appear in the portfolio.
+
+See `docs/contributor-architecture-blueprint.md` and
+`docs/diagrams/repo-architecture.{puml,drawio}` for the repo-specific
+architecture surfaces.
+
 ## Coursera
 
 ---
