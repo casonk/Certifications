@@ -1,0 +1,19 @@
+@startuml
+title Certifications Tooling Integrations
+left to right direction
+skinparam shadowing false
+skinparam defaultFontName Monospace
+skinparam componentStyle rectangle
+skinparam linetype ortho
+rectangle ".github/workflows/ci.yml\\n3 detected tools" as source_github_workflows_ci_yml #E0F2FE
+cloud "actions/checkout" as tool_actions_checkout #FEF3C7
+cloud "find" as tool_find #FEF3C7
+cloud "wc" as tool_wc #FEF3C7
+source_github_workflows_ci_yml --> tool_actions_checkout
+source_github_workflows_ci_yml --> tool_find
+source_github_workflows_ci_yml --> tool_wc
+note as toolingGraphSummary
+Scanned 1 tooling entrypoint.
+Detected 3 third-party tools.
+end note
+@enduml
