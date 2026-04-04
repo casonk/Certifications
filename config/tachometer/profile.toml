@@ -1,0 +1,12 @@
+[repo]
+name = "Certifications"
+category = "doc-repos"
+kind = "docs"
+
+[paths]
+disk_path = "."
+profile_path = ".tachometer/profile.json"
+summary_path = ".tachometer/summary.json"
+
+[defaults]
+label = "repo-snapshot"
