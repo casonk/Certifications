@@ -2,7 +2,7 @@
 
 ---
 
-## Profile Badge 
+## Profile Badge
 
 ![Try Hack Me](./spoofkon.png)
 

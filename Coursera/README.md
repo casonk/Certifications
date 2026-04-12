@@ -1,4 +1,4 @@
-# Coursera 
+# Coursera
 
 ---
 
@@ -6,11 +6,11 @@
 - [Identifying the Right Role for Yourself](https://www.coursera.org/learn/identifying-right-datascience-ai-role) ([Live Link](https://coursera.org/share/b5eb51ed5af6bede8af8a98285954a21))
 
 
-## University of California - San Diego 
+## University of California - San Diego
 - [Graph Analytics for Big Data](https://www.coursera.org/learn/big-data-graph-analytics) ([Live Link](https://www.coursera.org/account/accomplishments/certificate/ZTZZBDR6PUJ3))
 
 
-## University of Michigan 
+## University of Michigan
 - [AI-Powered Data Analysis: A Practical Introduction](https://www.coursera.org/learn/ai-powered-data-analysis-a-practical-introduction) ([Live Link](https://coursera.org/share/662e35adaa793c3dc4b14909dbf9f86c))
 - [Applied Data Science With Python](https://www.coursera.org/specializations/data-science-python) ([Live Link](https://coursera.org/share/50689af784f70853be50eb6309df79b5))
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) ([Live Link](https://coursera.org/share/e10dc0ee00b0c2178f5208706445f829))
@@ -49,11 +49,11 @@
 
 ## University of Colorado Boulder
 - [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) ([Live Link](https://coursera.org/share/48202fb98750a90f6905dccfd48f1a49))
-  
+
 ## University of Toronto
 - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) ([Live Link](https://coursera.org/share/f067f2a02c3fcb74cd4c809c2f0cc357))
 
-## University System of Georgia 
+## University System of Georgia
 - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Live Link](https://coursera.org/share/c30f693909ec428c290929e950092cdb))
 
 ## Vanderbilt University
