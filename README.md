@@ -164,7 +164,7 @@ architecture surfaces.
 
 ---
 
-### Profile Badge 
+### Profile Badge
 
 ![Try Hack Me](./TryHackMe/spoofkon.png)
 
