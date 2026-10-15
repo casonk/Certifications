@@ -25,3 +25,13 @@ This repository is a documentation archive for certifications, coursework certif
 - Ensure any relevant checks pass before merging.
 - Do not commit secrets, credentials, or sensitive data.
 - Call out any broken links that were removed or replaced.
+
+## AI Contribution Disclosure
+
+Parts of this repository's code, documentation and commit history were drafted
+with AI coding assistants, including Claude Code, OpenAI Codex, GitHub Copilot
+and Continue. The maintainer directs that work, reviews and tests each change
+before it merges, and is responsible for the result.
+
+This section is the repository-wide disclosure. Individual commits, pull
+requests and files do not carry per-tool attribution lines.
