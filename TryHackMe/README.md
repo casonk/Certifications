@@ -38,7 +38,7 @@
 
 ## Certificates
 
-- [pathway-gijdj7xxvc](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MW6DBEGPGO.pdf)
+- [Net-Exploit / How Web Works Learning Path](./Certifications/CSC335Sp2024_H4Q4_Net-Exploit_How-Web-Works-Try_Hack_Me.pdf) ([live certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MW6DBEGPGO.pdf))
 
 ## Badges
 

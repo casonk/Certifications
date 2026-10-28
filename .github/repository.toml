@@ -3,7 +3,7 @@
 
 [repository]
 # One line shown on GitHub. Keep it free of private repository names and local paths.
-description = "My certifications"
+description = "Certification records, badges, and supporting evidence for professional and technical qualifications."
 
 [main_branch]
 # Direct commits and pushes to main are refused unless this is true.
